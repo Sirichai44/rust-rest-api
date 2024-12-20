@@ -51,4 +51,4 @@ docker-compse up
 cargo run
 ```
 
-**Serve on post 8080**
+**Serve on Post 8080**
