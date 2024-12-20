@@ -9,6 +9,7 @@ RESTful API with Rust
 |   📄Cargo.toml
 |   📄README.md 
 |   📄Setting.toml
+|   📄docker-compose.yml
 | 
 +---📂src/
    |    📄lib.rs 
